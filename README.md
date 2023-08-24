@@ -1,4 +1,5 @@
-## Lab01a
-1. Compliar o programa através do terminal Linux com o comando gcc -o Lab01a Lab01a.c
-2. Executar o programa utilizando .\Lab01a.c
-3. O resultado da execução do programa irá aparecer através do proprio terminal e pode ser comprovado por print
+# Laboratorio De Sistemas Operacionais 4N11
+Integrantes: 
+Matheus Hidalgo do Nascimento Fest Ferreira Tia:32155743
+Murilo Ramos do Nascimento Tia:32271166
+Natália de Fátima Teixeir Tia:42129397
